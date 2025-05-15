@@ -1,1 +1,1 @@
-this is simple counter for counting everythings. 
+this is simple counter for counting everything. 
